@@ -1,0 +1,4 @@
+# Driver path
+driver_path=C:\Users\<User>\.wdm\drivers\chromedriver\win32
+# Download path
+download_path=C:\Users\<User>\<Your_directory>
